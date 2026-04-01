@@ -42,6 +42,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
+| [Spring WebFlux + MongoDB](https://github.com/Jacques-Trevia/spring-webflux-mongodb) | API REST reativa não-bloqueante com Spring WebFlux e MongoDB reativo | Java, Spring WebFlux, Project Reactor, MongoDB |
 | [DS Catalog](https://github.com/Jacques-Trevia/dscatalog-devsuperior) | API REST para catálogo de produtos com autenticação OAuth2/JWT | Java, Spring Boot, Spring Security, JWT, PostgreSQL |
 | [DS Commerce](https://github.com/Jacques-Trevia/dscommerce-devsuperior) | E-commerce com gerenciamento de pedidos e usuários | Java, Spring Boot, Spring Data JPA, H2/PostgreSQL |
 | [Chess System](https://github.com/Jacques-Trevia/chess-system-java) | Jogo de xadrez completo no terminal com todas as regras oficiais | Java, POO, Tratamento de exceções, Lógica de jogos |
