@@ -4,13 +4,25 @@
 
 ### 🚀 Sobre mim
 
-- ✅ Cursos concluídos: **Java Completo (Udemy Nélio Alves)**, **Java Spring Professional** e **Java Spring Expert (DevSuperior)**
-- 💼 Especializado em **Spring Boot, Spring Security (OAuth2/JWT), APIs REST, JPA/Hibernate, microserviços, Docker e mensageria**
-- 🌱 Cursos em andamento: **Microsserviços Java com Spring Boot e Spring Cloud** (Udemy - Nelio Alves)
-- 💼 Em busca da primeira oportunidade como **Desenvolvedor Java Júnior**
-- 📫 Como me encontrar: <div align="left"> 
-<a href="https://www.linkedin.com/in/jacques-trevia" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+Desenvolvedor Java com **formação intensiva** pelos cursos Java Completo (Nélio Alves), Spring Professional e Spring Expert (DevSuperior).
+
+💻 **Tecnologias que domino no dia a dia:**
+- **Back-end**: Java 17 | Spring Boot | Spring Security (OAuth2/JWT) | JPA/Hibernate
+- **Bancos**: PostgreSQL | MongoDB | H2
+- **Testes**: JUnit | MockMvc | RestAssured | JaCoCo (cobertura 80%+)
+- **Ferramentas**: Git | Maven | Postman | Docker (básico)
+
+📚 **Atualmente estudando:** Microsserviços com Spring Cloud, mensageria (RabbitMQ) e orquestração com Docker.
+
+🎯 **Objetivo:** Primeira oportunidade como Dev Java Júnior. disponível para início imediato
+
+📫 **Vamos conversar?**
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/jacques-trevia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:jacquesceara@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/jacques-trevia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -22,9 +34,20 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
+  <!-- Estatísticas principais -->
   <a href="https://github.com/jacques-trevia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacques-trevia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacques-trevia&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=jacques-trevia&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacques-trevia&layout=compact&theme=tokyonight" />
+  </a>
+  
+  <!-- Troféus de conquistas -->
+  <a href="https://github.com/jacques-trevia">
+    <img src="https://github-profile-trophy.vercel.app/?username=jacques-trevia&theme=tokyonight&row=2&column=3" />
+  </a>
+  
+  <!-- Gráfico de atividade -->
+  <a href="https://github.com/jacques-trevia">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacques-trevia&theme=tokyonight" />
   </a>
 </div>
 
@@ -65,6 +88,9 @@
   <a href="https://github.com/jacques-trevia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+    <a href="mailto:jacquesceara@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
 </div>
 
 ---
