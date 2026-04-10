@@ -18,13 +18,13 @@ Desenvolvedor Java com **formação intensiva** pelos cursos Java Completo (Nél
 
 📫 **Vamos conversar?**
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/jacques-trevia" target="_blank">
+  <a href="https://www.linkedin.com/in/Jacques-Trevia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:jacquesceara@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/jacques-trevia" target="_blank">
+  <a href="https://github.com/Jacques-Trevia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
@@ -35,18 +35,18 @@ Desenvolvedor Java com **formação intensiva** pelos cursos Java Completo (Nél
 
 <div align="center">
   <!-- Estatísticas principais -->
-  <a href="https://github.com/jacques-trevia">
+  <a href="https://github.com/Jacques-Trevia">
     <img height="180em" src="https://streak-stats.demolab.com?user=jacques-trevia&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacques-trevia&layout=compact&theme=tokyonight" />
   </a>
   
   <!-- Troféus de conquistas -->
-  <a href="https://github.com/jacques-trevia">
+  <a href="https://github.com/Jacques-Trevia">
     <img src="https://github-profile-trophy.vercel.app/?username=jacques-trevia&theme=tokyonight&row=2&column=3" />
   </a>
   
   <!-- Gráfico de atividade -->
-  <a href="https://github.com/jacques-trevia">
+  <a href="https://github.com/Jacques-Trevia">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacques-trevia&theme=tokyonight" />
   </a>
 </div>
@@ -82,10 +82,10 @@ Desenvolvedor Java com **formação intensiva** pelos cursos Java Completo (Nél
 ### 📫 Conecte-se comigo
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/jacques-trevia" target="_blank">
+  <a href="https://www.linkedin.com/in/Jacques-Trevia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://github.com/jacques-trevia" target="_blank">
+  <a href="https://github.com/Jacques-Trevia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
     <a href="mailto:jacquesceara@gmail.com" target="_blank">
