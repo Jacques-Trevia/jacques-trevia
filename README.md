@@ -4,15 +4,19 @@
 
 ### 🚀 Sobre mim
 
-Desenvolvedor Java com **formação intensiva** pelos cursos Java Completo (Nélio Alves), Spring Professional e Spring Expert (DevSuperior).
+Desenvolvedor Java com **formação completa** pelos cursos:
+- ✅ Java Completo (Nélio Alves)
+- ✅ Spring Professional (DevSuperior)
+- ✅ Spring Expert (DevSuperior)
+- ✅ Microsserviços Java com Spring Boot e Spring Cloud (Nélio Alves)
 
 💻 **Tecnologias que domino no dia a dia:**
 - **Back-end**: Java 17 | Spring Boot | Spring Security (OAuth2/JWT) | JPA/Hibernate
+- **Microsserviços**: Spring Cloud (Eureka, Config Server, Gateway Zuul, OpenFeign) 
 - **Bancos**: PostgreSQL | MongoDB | H2
 - **Testes**: JUnit | MockMvc | RestAssured | JaCoCo (cobertura 80%+)
-- **Ferramentas**: Git | Maven | Postman | Docker (básico)
-
-📚 **Atualmente estudando:** Microsserviços com Spring Cloud, mensageria (RabbitMQ) e orquestração com Docker.
+- **Contêineres**: Docker (criação de imagens, Docker Compose, redes, orquestração) 
+- **Ferramentas**: Git | Maven | Postman | IntelliJ
 
 🎯 **Objetivo:** Primeira oportunidade como Dev Java Júnior. disponível para início imediato
 
@@ -72,6 +76,7 @@ Desenvolvedor Java com **formação intensiva** pelos cursos Java Completo (Nél
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
+| [MS Course](https://github.com/Jacques-Trevia/ms-course) | Arquitetura completa de microsserviços com Service Discovery (Eureka), API Gateway (Zuul), Config Server, OAuth2/JWT, e orquestração com Docker Compose | Java 11, Spring Cloud, Spring Security OAuth2, Docker, PostgreSQL |
 | [Spring WebFlux + MongoDB](https://github.com/Jacques-Trevia/spring-webflux-mongodb) | API REST reativa não-bloqueante com Spring WebFlux e MongoDB reativo | Java, Spring WebFlux, Project Reactor, MongoDB |
 | [DS Catalog](https://github.com/Jacques-Trevia/dscatalog-devsuperior) | API REST para catálogo de produtos com autenticação OAuth2/JWT | Java, Spring Boot, Spring Security, JWT, PostgreSQL |
 | [DS Commerce](https://github.com/Jacques-Trevia/dscommerce-devsuperior) | E-commerce com gerenciamento de pedidos e usuários | Java, Spring Boot, Spring Data JPA, H2/PostgreSQL |
